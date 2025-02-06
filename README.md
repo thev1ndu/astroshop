@@ -18,7 +18,7 @@ AstroShop is a dynamic online platform designed to simplify and enhance your tec
 
 ### Database Management
 - **phpMyAdmin URL:** [api.8t33n.cfd/phpmyadmin](http://api.8t33n.cfd/phpmyadmin)
-- **Database Name:** `shop_db`
+- **Database Name:** `astro`
 - **Access Credentials:**
   - **Username:** obsv
   - **Password:** obsv
