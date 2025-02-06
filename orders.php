@@ -169,7 +169,7 @@ if(isset($_SESSION['user_id'])){
         </div>
         <h4 class="mb-3" style="color: #2b3452;">No Orders Yet</h4>
         <p class="text-muted mb-4">Start shopping to see your orders here!</p>
-        <a href="shop.php" class="btn btn-primary px-4 py-2 rounded-pill">
+        <a href="shop.php" class="btn btn-primary px-4 py-2 mx-auto rounded-pill">
           Browse Products
         </a>
       </div>
