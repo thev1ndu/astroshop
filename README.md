@@ -14,10 +14,10 @@ AstroShop is a dynamic online platform designed to simplify and enhance your tec
 ## Key Details
 
 ### Website
-- **AstroShop Live URL:** [dmw.8t33n.cfd/astrogoeslive](http://api.8t33n.cfd/astrov4)
+- **AstroShop Live URL:** [api.8t33n.cfd/astrogoeslive](http://api.8t33n.cfd/astrov4)
 
 ### Database Management
-- **phpMyAdmin URL:** [dmw.8t33n.cfd/phpmyadmin](http://api.8t33n.cfd/phpmyadmin)
+- **phpMyAdmin URL:** [api.8t33n.cfd/phpmyadmin](http://api.8t33n.cfd/phpmyadmin)
 - **Database Name:** `shop_db`
 - **Access Credentials:**
   - **Username:** obsv
